@@ -1,0 +1,14 @@
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardWorld\bin\Debug\CreditCardWorld.exe.config
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardWorld\bin\Debug\CreditCardWorld.exe
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardWorld\bin\Debug\CreditCardWorld.pdb
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardWorld\obj\Debug\CreditCardWorld.csproj.AssemblyReference.cache
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardWorld\obj\Debug\CreditCardWorld.csproj.CoreCompileInputs.cache
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardWorld\obj\Debug\CreditCardWorld.exe
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardWorld\obj\Debug\CreditCardWorld.pdb
+D:\Desktop\Itzik Moalem\Process\טפסי עבודות\Max - Project\CreditCardWorld\CreditCardWorld\CreditCardWorld\bin\Debug\CreditCardWorld.exe.config
+D:\Desktop\Itzik Moalem\Process\טפסי עבודות\Max - Project\CreditCardWorld\CreditCardWorld\CreditCardWorld\bin\Debug\CreditCardWorld.exe
+D:\Desktop\Itzik Moalem\Process\טפסי עבודות\Max - Project\CreditCardWorld\CreditCardWorld\CreditCardWorld\bin\Debug\CreditCardWorld.pdb
+D:\Desktop\Itzik Moalem\Process\טפסי עבודות\Max - Project\CreditCardWorld\CreditCardWorld\CreditCardWorld\obj\Debug\CreditCardWorld.csprojAssemblyReference.cache
+D:\Desktop\Itzik Moalem\Process\טפסי עבודות\Max - Project\CreditCardWorld\CreditCardWorld\CreditCardWorld\obj\Debug\CreditCardWorld.csproj.CoreCompileInputs.cache
+D:\Desktop\Itzik Moalem\Process\טפסי עבודות\Max - Project\CreditCardWorld\CreditCardWorld\CreditCardWorld\obj\Debug\CreditCardWorld.exe
+D:\Desktop\Itzik Moalem\Process\טפסי עבודות\Max - Project\CreditCardWorld\CreditCardWorld\CreditCardWorld\obj\Debug\CreditCardWorld.pdb

@@ -1,0 +1,17 @@
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\bin\Debug\CreditCardTests.dll
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\bin\Debug\CreditCardTests.pdb
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\bin\Debug\CreditCardWorld.exe
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\bin\Debug\CreditCardWorld.pdb
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\bin\Debug\CreditCardWorld.exe.config
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\obj\Debug\CreditCardTests.csproj.AssemblyReference.cache
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\obj\Debug\CreditCardTests.csproj.CoreCompileInputs.cache
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\obj\Debug\CreditCardTests.csproj.CopyComplete
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\obj\Debug\CreditCardTests.dll
+C:\Users\chaima\source\repos\CreditCardWorld\CreditCardTests\obj\Debug\CreditCardTests.pdb
